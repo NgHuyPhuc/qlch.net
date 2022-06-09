@@ -1,0 +1,59 @@
+D:\Hoc\.net\do an .net\login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Hoc\.net\do an .net\login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Hoc\.net\do an .net\login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Hoc\.net\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Hoc\.net\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmmain.resources
+D:\Hoc\.net\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Hoc\.net\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Hoc\.net\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Hoc\.net\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Hoc\.net\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Hoc\.net\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmthanhtoan.resources
+D:\Hoc\.net\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+D:\Hoc\.net\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmkho.resources
+D:\Hoc\.net\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmnhanvien.resources
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmkho.resources
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmnhanvien.resources
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmmain.resources
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aaa.resources
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.thanhtoan.resources
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\bin\Debug\EPPlus.dll
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\bin\Debug\EPPlus.xml
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmluong.resources
+D:\hoc\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hoadon.resources
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\bin\Debug\EPPlus.dll
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\bin\Debug\EPPlus.xml
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bieudo.resources
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hoadon.resources
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmkho.resources
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmnhanvien.resources
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmluong.resources
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aaa.resources
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmmain.resources
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.thanhtoan.resources
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\baocaocuoi .net\.netbaocao\do an .net\login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
